@@ -1,4 +1,4 @@
-# Minor Project 04 – To-Do App & Notes App
+# Minor Projects – To-Do App & Notes App
 
 ## About the Project
 
